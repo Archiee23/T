@@ -17,8 +17,6 @@
 
 ## Lyrics
 You did many things
-
-
 That I liked, that I liked
 And you like diamond rings
 I can provide, I can provide for you
