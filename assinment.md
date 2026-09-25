@@ -17,23 +17,41 @@
 
 ## Lyrics
 You did many things
+
 That I liked, that I liked
+
 And you like diamond rings
+
 I can provide, I can provide for you
+
 You made me feel so good
+
 Before I left
+
 On the road
+
 And you deserve your name
+
 On a crown, on a throne
+
 You did many things
+
 That I liked, that I liked
+
 And you like diamond rings
+
 I can provide, I can provide for you
+
 You made me feel so good
+
 Before I left
+
 On the road
+
 And you deserve your name
+
 On a crown, on a throne
+
 
 I haven't been around my town in a long while
 I apologize, but I
