@@ -16,9 +16,9 @@
 <u>This is my favorite song.</u>
 
 ## Lyrics
-You did many things
-That I liked, that I liked
-And you like diamond rings
+You did many things[SPACE][SPACE]
+That I liked, that I liked[SPACE][SPACE]
+And you like diamond rings[SPACE][SPACE]
 I can provide, I can provide for you
 You made me feel so good
 Before I left
