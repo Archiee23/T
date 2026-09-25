@@ -1,4 +1,21 @@
-![My image](R.jpg)
+# My Song Assignment
+
+**Song:** The Town
+**Artist:** The Weeknd
+
+## Why I Chose This Song
+
+*I chose this song because I like the music and lyrics.*
+
+### Things I Like About It
+
+- The lyrics
+- The beat
+- The artist
+ 
+<u>This is my favorite song.</u>
+
+## Lyrics
 You did many things
 That I liked, that I liked
 And you like diamond rings
@@ -73,3 +90,7 @@ Before I left
 On the road
 And you deserve your name
 On a crown, on a throne
+## Song Image
+
+![My image](R.jpg)
+[Listen to the song on YouTube](https://www.youtube.com/watch?v=c7GkZd7T3tk)
