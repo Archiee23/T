@@ -17,12 +17,9 @@
 
 ## Lyrics
 You did many things  
-
 That I liked, that I liked  
-
 And you like diamond rings  
-
-I can provide, I can provide for you
+I can provide, I can provide for you  
 You made me feel so good
 Before I left
 On the road
