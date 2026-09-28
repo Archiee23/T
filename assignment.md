@@ -16,80 +16,80 @@
 <ins>This is my favorite song.</ins>
 
 ## Lyrics
-You did many things  
-That I liked, that I liked  
-And you like diamond rings  
-I can provide, I can provide for you  
-You made me feel so good  
-Before I left  
-On the road  
-And you deserve your name  
-On a crown, on a throne  
-You did many things  
-That I liked, that I liked  
-And you like diamond rings  
-I can provide, I can provide for you  
-You made me feel so good  
-Before I left  
-On the road  
-And you deserve your name  
-On a crown, on a throne  
+You did many things <br>
+That I liked, that I liked <br>
+And you like diamond rings <br>
+I can provide, I can provide for you <br>
+You made me feel so good <br>
+Before I left <br>
+On the road <br>
+And you deserve your name <br>
+On a crown, on a throne <br>
+You did many things <br>
+That I liked, that I liked <br>
+And you like diamond rings <br>
+I can provide, I can provide for you <br>
+You made me feel so good <br>
+Before I left <br>
+On the road <br>
+And you deserve your name <br>
+On a crown, on a throne <br>
 
-I haven't been around my town in a long while  
-I apologize, but I  
-I've been trying to get this money like I got a couple kids who rely  
-On me  
-But I remember on the bathroom floor  
-'Fore I went on tour  
-Like you said we couldn't do it again  
-Cause you had a thing with some other man  
-You said it was love  
-And you said you were lost  
-Then you wished me good luck  
-To find somebody to love  
-But, oooh  
-Now I've heard that you're single  
-And uh huh, I'll give you something to live for  
-Yes, I will  
+I haven't been around my town in a long while <br>
+I apologize, but I <br>
+I've been trying to get this money like I got a couple kids who rely <br>
+On me <br>
+But I remember on the bathroom floor <br>
+'Fore I went on tour <br>
+Like you said we couldn't do it again <br>
+Cause you had a thing with some other man <br>
+You said it was love <br>
+And you said you were lost <br>
+Then you wished me good luck <br>
+To find somebody to love <br>
+But, oooh <br>
+Now I've heard that you're single <br>
+And uh huh, I'll give you something to live for <br>
+Yes, I will <br>
 
-Honey, please  
-You never thought you'd ever see my face again  
-But your love just swayed the lies  
-When he stared into your eyes  
-He just might be too good for you  
-You're almost dead to him  
-You're sleeping with a frozen heart  
-Well baby girl it's over now  
-And you can always count on me  
-Your unshackled boy, unrestrained to touch  
-So immune to love  
-And it feels so priceless to me  
-That you're always free  
-That you'll take me in  
-Now I'm everything, your everything  
-I bet you'll take me in  
-I know you'll take me in now  
-The same place I left you in (we)  
-I bet you'll take me in  
-I know you'll take me in, I know you'll take me in  
-The same place I left you in  
+Honey, please <br>
+You never thought you'd ever see my face again <br>
+But your love just swayed the lies <br>
+When he stared into your eyes <br>
+He just might be too good for you <br>
+You're almost dead to him <br>
+You're sleeping with a frozen heart <br>
+Well baby girl it's over now <br>
+And you can always count on me <br>
+Your unshackled boy, unrestrained to touch <br>
+So immune to love <br>
+And it feels so priceless to me <br>
+That you're always free <br>
+That you'll take me in <br>
+Now I'm everything, your everything <br>
+I bet you'll take me in <br>
+I know you'll take me in now <br>
+The same place I left you in (we) <br>
+I bet you'll take me in <br>
+I know you'll take me in, I know you'll take me in <br>
+The same place I left you in <br>
 
-We  
-Who?  
-Oooh  
-Oooooooh  
-No ho  
-Let her know  
+We <br>
+Who? <br>
+Oooh <br>
+Oooooooh <br>
+No ho <br>
+Let her know <br>
 
-You did many things  
-That I liked, that I liked  
-And you like diamond rings  
-I can provide, I can provide for you  
-You made me feel so good  
-Before I left  
-On the road  
-And you deserve your name  
-On a crown, on a throne
+You did many things <br>
+That I liked, that I liked <br>
+And you like diamond rings <br>
+I can provide, I can provide for you <br>
+You made me feel so good <br>
+Before I left <br>
+On the road <br>
+And you deserve your name <br>
+On a crown, on a throne <br>
 ## Song Image
 
 ![My image](R.jpg)
