@@ -5,7 +5,7 @@
 
 ## Why I Chose This Song
 
-*I chose this song because I like the music and lyrics. I also like The Weeknd as an artist.*
+*I chose this song because I like the music and lyrics.*
 
 ### Things I Like About It
 
@@ -13,13 +13,31 @@
 - The beat
 - The artist
  
-## <ins>My favourite part</ins>
+<ins>This is my favorite song.</ins>
 
 ## Lyrics
+You did many things  
+That I liked, that I liked  
+And you like diamond rings  
+I can provide, I can provide for you  
+You made me feel so good  
+Before I left  
+On the road  
+And you deserve your name  
+On a crown, on a throne  
+You did many things  
+That I liked, that I liked  
+And you like diamond rings  
+I can provide, I can provide for you  
+You made me feel so good  
+Before I left  
+On the road  
+And you deserve your name  
+On a crown, on a throne  
 
-I haven't been around my town in a long while <br> 
-I apologize, but I <br>
-I've been trying to get this money like I got a couple kids who rely <br>
+I haven't been around my town in a long while  
+I apologize, but I  
+I've been trying to get this money like I got a couple kids who rely  
 On me  
 But I remember on the bathroom floor  
 'Fore I went on tour  
@@ -34,7 +52,44 @@ Now I've heard that you're single
 And uh huh, I'll give you something to live for  
 Yes, I will  
 
+Honey, please  
+You never thought you'd ever see my face again  
+But your love just swayed the lies  
+When he stared into your eyes  
+He just might be too good for you  
+You're almost dead to him  
+You're sleeping with a frozen heart  
+Well baby girl it's over now  
+And you can always count on me  
+Your unshackled boy, unrestrained to touch  
+So immune to love  
+And it feels so priceless to me  
+That you're always free  
+That you'll take me in  
+Now I'm everything, your everything  
+I bet you'll take me in  
+I know you'll take me in now  
+The same place I left you in (we)  
+I bet you'll take me in  
+I know you'll take me in, I know you'll take me in  
+The same place I left you in  
 
+We  
+Who?  
+Oooh  
+Oooooooh  
+No ho  
+Let her know  
+
+You did many things  
+That I liked, that I liked  
+And you like diamond rings  
+I can provide, I can provide for you  
+You made me feel so good  
+Before I left  
+On the road  
+And you deserve your name  
+On a crown, on a throne
 ## Song Image
 
 ![My image](R.jpg)
