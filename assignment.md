@@ -5,7 +5,7 @@
 
 ## Why I Chose This Song
 
-*I chose this song because I like the music and lyrics.*
+*I chose this song because I like the music and lyrics. I also like The Weeknd as an artist.*
 
 ### Things I Like About It
 
